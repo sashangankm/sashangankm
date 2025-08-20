@@ -1,6 +1,6 @@
 ## Hey, I'm Sashangan
 
-🤖Artificial Intelligence & Data Science Student<br>🔭 I’m currently working on AI/ML, Web Applications<br>🦾 I’m looking to collaborate on development projects<br>🤝 I’m looking for help with backend integration<br>🖥️ I’m currently learning Data Science<br>
+🤖Artificial Intelligence & Data Science Student<br>🔭 I’m currently working on AI/ML, Web Applications<br>🦾 I’m looking to collaborate on ML/Data projects<br>🤝 I’m looking for help with web development<br>🖥️ I’m currently learning Data Science and AI Agents<br>
 
 
 ## 🌐 Socials:
