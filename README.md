@@ -1,6 +1,6 @@
 ## Hey, I'm Sashangan
 
-🤖Artificial Intelligence & Data Science Student<br>🔭 I’m currently working on AI/ML, Web Applications<br>🦾 I’m looking to collaborate on ML/Data projects<br>🤝 I’m looking for help with AI/ML integrated in IoT<br>🖥️ I’m currently learning Data Science and AI Agents<br>
+🤖Artificial Intelligence & Data Science Student<br>🔭 I’m currently working on AI/ML, Web Applications<br>🦾 I’m looking to collaborate on ML/DS projects<br>🖥️ I’m currently learning Data Science and AI Agents<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sashangan-km) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sashangan123@gmail.com) 
